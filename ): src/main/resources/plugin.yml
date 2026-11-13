@@ -1,0 +1,10 @@
+name: DonutAuth
+version: 1.0
+main: me.donut.auth.DonutAuth
+api-version: 1.16
+description: DonutSMP Style Login and Register System
+commands:
+  register:
+    description: Register your account
+  login:
+    description: Login to your account
